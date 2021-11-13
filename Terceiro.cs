@@ -10,7 +10,6 @@ namespace Ex
     {
         public string EmpresaOrigem { get; set; }
         public double TaxaServico { get; set; }
-        public string Teste { get; set; }
         public Terceiro()
         {
         }
